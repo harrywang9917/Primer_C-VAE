@@ -1,0 +1,3 @@
+5f0d1130c694ecff533a717210898665  ncbi_dataset/data/data_summary.tsv
+648c8149f0160defa37f502c202aaa59  ncbi_dataset/data/assembly_data_report.jsonl
+df0e0367c3873cde2fc86e9b499b9329  ncbi_dataset/data/dataset_catalog.json
